@@ -19,7 +19,7 @@ Você pode visualizar o projeto publicado no GitHub Pages através do link abaix
 
 
 
-[🔗 Post Fotos - GitHub Pages](https://dev-diogelucasc.github.io/manipulacao_API/)
+[🔗 siteSerie - GitHub Pages](https://dev-diogelucasc.github.io/manipulacao_API/)
 
 
 
