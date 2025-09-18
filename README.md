@@ -19,7 +19,7 @@ Você pode visualizar o projeto publicado no GitHub Pages através do link abaix
 
 
 
-[🔗 siteSerie - GitHub Pages](https://dev-diogelucasc.github.io/manipulacao_API/)
+[🔗 SiteSerie - GitHub Pages](https://dev-diogelucasc.github.io/SiteSerie_API/)
 
 
 
@@ -43,7 +43,7 @@ Você pode visualizar o projeto publicado no GitHub Pages através do link abaix
 
    ```bash
 
-   git clone https://github.com/Dev-Diogelucasc/manipulacao_API.git
+   git clone https://github.com/Dev-Diogelucasc/SiteSerie_API.git
 
    ```
 
