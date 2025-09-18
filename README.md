@@ -1,28 +1,74 @@
-Buscador de Séries
-Este projeto foi desenvolvido para a disciplina de Programação para Internet 2, 4° Período do curso de Análise e Desenvolvimento de Sistemas (ADS), no IFTM.
 
-📄 Sobre
+Este projeto foi desenvolvido para a disciplina **Programação para Internet 2**, do **4° período** do curso de **Análise e Desenvolvimento de Sistemas (ADS)**, no **IFTM**.
+
+
+
+## 📄 Sobre
+
+
+
 O objetivo deste projeto é criar um buscador de séries que consome uma API para exibir os dados do título escolhido pelo usuário. A aplicação permite buscar séries por nome em um campo de texto e, em seguida, selecionar a série desejada em um menu suspenso para visualizar seus detalhes.
 
-💻 Tecnologias utilizadas
-HTML5
 
-CSS3
 
-JavaScript
+## 🚀 Acesse o site
 
-📚 Como rodar localmente
-Clone o repositório:
 
-Bash
 
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-Abra o arquivo index.html em seu navegador.
+Você pode visualizar o projeto publicado no GitHub Pages através do link abaixo:
 
-🛠️ Contribuições
+
+
+[🔗 Post Fotos - GitHub Pages](https://dev-diogelucasc.github.io/manipulacao_API/)
+
+
+
+## 💻 Tecnologias utilizadas
+
+
+
+- HTML5
+
+- CSS3
+
+- JavaScript
+
+
+
+## 📚 Como rodar localmente
+
+
+
+1. Clone o repositório:
+
+   ```bash
+
+   git clone https://github.com/Dev-Diogelucasc/manipulacao_API.git
+
+   ```
+
+2. Abra o arquivo `index.html` no seu navegador.
+
+
+
+## 🛠️ Contribuições
+
+
+
 Sinta-se à vontade para abrir issues ou pull requests com sugestões, melhorias ou correções!
 
-📄 Licença
+
+
+## 📄 Licença
+
+
+
 Este projeto está sob a licença MIT.
 
-Desenvolvido por SEU_USUARIO_GITHUB
+
+
+---
+
+
+
+Desenvolvido por [Dev-Diogelucasc](https://github.com/Dev-Diogelucasc
